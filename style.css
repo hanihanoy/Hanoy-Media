@@ -311,7 +311,7 @@ footer {
     justify-content: center;
   }
 }
-.cta button {
+.cta-button {
    background-color:#e74c3c;
    color:white;
    font-weight: bold;
@@ -326,4 +326,5 @@ cta.button:hover{
 .nav.cta a{
    text-decoration:none;
 }
+
 
